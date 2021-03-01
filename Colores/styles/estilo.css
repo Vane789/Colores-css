@@ -1,0 +1,42 @@
+/*Anlly Vanessa Cardona*/
+ .red{ 
+     background-color:red; 
+	 width: 2%; 
+	 height: 100%; 
+	 float: left;
+	 }
+
+.blue{
+	background-color:blue; 
+	float: left; 
+	width: 2%; 
+	height: 100%;
+}
+
+.yellow{
+	 background-color:yellow; 
+	 float: left; 
+	 width: 4%; 
+	 height: 100%;
+}
+
+.red2{
+    background-color:red; 
+	float: left; 
+	width: 6%; 
+	height: 100%;
+}
+.blue2{
+	background-color:blue; 
+	   float: left; 
+	   width: 10%; 
+	   height: 100%;
+}
+
+.yellow2{
+	background-color:yellow; 
+	   float: left; 
+	   width: 15%; 
+	   height: 100%;
+}
+	 
